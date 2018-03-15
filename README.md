@@ -1,2 +1,2 @@
 # sm
-Source code of switch media full stack test
+Source code of technical test for full stack developer - switch media
